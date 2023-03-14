@@ -524,7 +524,7 @@ nav img {
 -----------------------------------------*/
 
 #contact, footer {
-  background: #03009e;
+  background: #010102;
   color: #03009e;
 }
 
@@ -549,15 +549,15 @@ nav img {
 }
 
 #contact input[type="submit"] {
-  background: #000003a1;
+  background: #ffffff;
   border:none;
-  color: #ffffff;
-  font-weight: 400;
+  color: #03009e;
+  font-weight: 600;
   letter-spacing: 1px;
 }
 
 #contact input[type="submit"]:hover {
-  background: #2f18ff;
+  background: #03009e;
   color: #ffffff;
 }
 
